@@ -1,0 +1,10 @@
+C:\Users\dmitr\source\repos\simple_object\simple_object\bin\Debug\simple_object.exe.config
+C:\Users\dmitr\source\repos\simple_object\simple_object\bin\Debug\simple_object.exe
+C:\Users\dmitr\source\repos\simple_object\simple_object\bin\Debug\simple_object.pdb
+C:\Users\dmitr\source\repos\simple_object\simple_object\obj\Debug\simple_object.csprojAssemblyReference.cache
+C:\Users\dmitr\source\repos\simple_object\simple_object\obj\Debug\simple_object.main_form.resources
+C:\Users\dmitr\source\repos\simple_object\simple_object\obj\Debug\simple_object.Properties.Resources.resources
+C:\Users\dmitr\source\repos\simple_object\simple_object\obj\Debug\simple_object.csproj.GenerateResource.cache
+C:\Users\dmitr\source\repos\simple_object\simple_object\obj\Debug\simple_object.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\source\repos\simple_object\simple_object\obj\Debug\simple_object.exe
+C:\Users\dmitr\source\repos\simple_object\simple_object\obj\Debug\simple_object.pdb
